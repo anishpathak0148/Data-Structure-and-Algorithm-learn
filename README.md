@@ -5,16 +5,16 @@ This file is helpfull for beginers who wants to learn DSA and implement it.
 This file also contains some coding problems based on DSA which was asked in many MNC's interview.
 
 # Topic Covered...
-Array
-String
-Linked List
-Stack
-Queue
-Tree
-Heap
-Graph implementation and algorithms
-Sorting Algorithms
-Greedy Algorithms
-Backtracking
-Dynamic Programming Algorithm
+Array,
+String,
+Linked List,
+Stack,
+Queue,
+Tree,
+Heap,
+Graph implementation and algorithms,
+Sorting Algorithms,
+Greedy Algorithms,
+Backtracking,
+Dynamic Programming Algorithm,
 Some Leetcode problem solution
